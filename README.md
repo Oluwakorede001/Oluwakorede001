@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Oluwakorede, a fan of chelsea football club and NF.I enjoy chnages. 
+- 👀 I’m interested in Machine Learning and Structural Analysis 
+- 💞️ I’m open to internships on both ML/data science as well as structual analysis. 
+- 📫 You can reach me at damisonoyewole@gmail.com
