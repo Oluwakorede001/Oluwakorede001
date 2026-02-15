@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oluwakorede, a fan of Chelsea football club and NF.I enjoy changes. 
+- 👋 Hi, I’m Oluwakorede, a fan of the Chelsea football club and NF. I enjoy changes. 
 - 👀 I’m interested in Machine Learning and Intelligent systems for structures 
-- 💞️ I’m open to internships in ML/data science and Automation.
+- 💞️ I’m open to internships in the application of machine learning in structural engineering.
 - 📫 You can reach me at oluwakoredeoyewole@outlook.com
